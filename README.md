@@ -1,3 +1,3 @@
 # swift-composable-debug-extension
 
-A description of this package.
+Print debug messages for any build configurations.
